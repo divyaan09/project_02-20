@@ -1,4 +1,3 @@
-
 # 🔐 SimpleIntegrityChecker
 
 A beginner-friendly Java program to check the integrity of a file by comparing its current SHA-256 hash value with a known good (original) hash.
